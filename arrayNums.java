@@ -12,9 +12,4 @@ public class arrayNums {
         return false;
     }
 
-    public static void main(String[] args) {
-        arrayNums cd = new arrayNums();
-        int[] nums = {1, 2, 3, 0};
-        System.out.println(cd.ArrayNums(nums));  
-    }
 }
