@@ -35,5 +35,7 @@ public class parenthesesMatching {
                 }
             }
         }
+        return check.isEmpty();
+
     }
 }

@@ -1,4 +1,3 @@
-package ClassExercises;
 
 public class arrayNums {
     public static boolean ArrayNums(int[] nums){

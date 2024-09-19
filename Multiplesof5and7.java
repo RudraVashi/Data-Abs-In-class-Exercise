@@ -1,4 +1,3 @@
-package ClassExercises;
 public class Multiplesof5and7{
     public static int sumOf(int n){
         int sum = 0;
